@@ -1,0 +1,5 @@
+diff a/README.md b/README.md	(rejected hunks)
+@@ -1,2 +1,2 @@
+-[![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat//14.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-vertical-rental-)
++[![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/298/14.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-vertical-rental-298)
+ [![Build Status](https://travis-ci.com/OCA/vertical-rental.svg?branch=14.0)](https://travis-ci.com/OCA/vertical-rental)
